@@ -6,7 +6,9 @@
       "type": "python",
       "request": "launch",
       "program": "${file}",
-      "console": "externalTerminal",
+      "console": "integratedTerminal",
+      //"console": "externalTerminal",
+      //"externalConsole": true,
       "justMyCode": true
     }
   ]
